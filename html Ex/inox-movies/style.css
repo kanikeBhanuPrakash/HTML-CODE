@@ -1,0 +1,23 @@
+
+aside {
+    font-size: 30px;
+    color:rgba(0, 139, 139, 0.74);
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    width: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+
+}
+aside div {
+    margin-top: 15px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 5px;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.849);
+    color: rgba(255, 255, 255, 0.712);
+}

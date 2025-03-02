@@ -1,0 +1,43 @@
+Events are the actions performed by user and they trigger a new logic/function
+we have
+  i. mouse events: mouse events triggered by mouse.
+     onclick: triggers when you click
+     ondblclick: trigger when you double click
+     onmouseover: triggers when you keep mouse over the element
+     onmouseout: triggers when you keep mouse out of the element
+By default, every time an event triggers, it passes event object to callback function
+object have many properties such as target ,
+it contains source element
+  ii. keyboard events: keyboard events are triggered by keyboard actions
+     keypress: triggered by pressing the key
+  iii. form events: form events are triggered by forms/input actions
+    oninput: triggers an action whenever input is entered
+    onchange: triggers an action whenever input is changed. their is slight time difference between inout and change
+    submit : triggers an action whenever form is submitted
+    select: triggers an event whenever an element is selected
+  iv. window events: window events triggered by window actions such as
+    on scroll:triggers an action whenever user scrolls the page
+
+  element.addEventListener('event',callback)
+
+
+Event propagation: Events are performed in a order of heirarchy called event propagation
+There are two types of events propagation
+  i. event bubbling:
+  bubbling means innermost to outermost. by default js uses bubbling for events
+  ii. event capturing:
+  capturing means outermost to innermost . we can make it happpen by third argument of eventlistner  as true
+
+where can we use event propagation?
+There is a design pattern,practical example where propagation important is 
+"event delegation"
+event delegation suggests to get logic from parent instead of individual childern
+
+
+
+
+
+
+
+
+

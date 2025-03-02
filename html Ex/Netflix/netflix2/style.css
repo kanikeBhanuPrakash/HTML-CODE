@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+}
+.shade{
+    background-color: rgba(red, green, blue, alpha);
+    width: 120px;
+    height: 168px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+.title{
+    font-size: 50px;
+    font-weight: bold;
+}

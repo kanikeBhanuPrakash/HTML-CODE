@@ -1,0 +1,49 @@
+DOcument object Model:
+Browser provides an object 'document' which contains complete html in it
+we can access,modify or even create html elements using document object.
+  i. access/select elements(DOM selection):
+  ii. modify elements(DOM Manipulation):
+  iii. create elements(DOM creation)
+
+DOM selection: IN Js, using document object we can select elements in 5 mostly used ways:
+  i. getElementsByTagName: it is used to select all elements with a particular tag name and results an array
+  Eg: document.getElementsByTagName('h1')
+  ii. getElementsByClassName: it is used to select all elements with a particular class name and results an array
+  document.getElementsByClassName("classname")
+  iii. getElementById: it is used to select particular element with id and results single element.
+  iv. querySelector: it is used to select an element similar to css query but it will select only first element
+  v. querySelectorAll: it is used to select all elements with certain query and results an array
+
+DOM Manipulation:
+    We can manipulate any element or its properties using document object.we have following properties to help Manipulation.
+  i. textContent: textContent is used to access/change the text value inside an element
+  ii. innerText: innerText also used to access/change the text inside an element but it will also presents according to CSS
+  iii. innerHTML : innerHTML is used to access/change the HTML code inside an element.
+  iv. style: style property used to change the style of an element it applies inline css to that element
+  v. classList: classList is used to add/remove/toggle class names to certain elements
+  vi. value: value is used to access/change the value of an input element
+
+3. DOM Creation: it is possible to create elements using document object.we can use methods like
+ i. createElement('tagname'): used to create the element
+ ii. appendChild(element): used to append an element
+ iii. append(element1,element2...): used to append elements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

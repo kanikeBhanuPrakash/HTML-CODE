@@ -1,0 +1,22 @@
+
+        footer{
+            background-color: rgba(0, 0, 0, 0.692);
+            color: rgba(255, 255, 255, 0.774);
+            padding:10px;
+        }
+        .row-1{
+            display: grid;
+            grid-template-columns: 2.4fr 2.4fr 2.4fr 2.4fr 2.4fr;
+            
+        }
+        .row2{
+            display: grid;
+            grid-template-columns: 2.4fr 2.4fr 2.4fr 2.4fr 2.4fr;
+            margin-top: 50px;
+
+        }
+        .footer-title{
+            font-weight: bold;
+            color: goldenrod;
+        }
+    

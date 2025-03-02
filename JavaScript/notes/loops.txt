@@ -1,0 +1,52 @@
+Loops: loops will repeat again and again. each repitition is called iteration
+We have primarily two sets of loops exist.
+  i. entry control loops : eg:while,for etc..,
+  ii. exit control loops : eg: do while 
+i. Entry control loops: these loops checks the condition at the starting/entry.
+A loop contains three phases (initialization, condition, updation)
+eg: while , for loops
+ii. Exit control loops: These loops checks the condition at the exit
+Eg: Dowhile
+
+while: while is a entry control loops which is used to iterate certain statements according to a condition
+  initialization;
+
+  while(condition){
+    //code
+    updation;
+  }
+
+dowhile: dowhile is an exit control loop which is used to iterate certain statements according to a condition
+whether condition is true or false, it executes one time atleast
+
+initialization;
+
+do{
+  //code
+  updation
+}while(condition);
+
+
+standard for: standard for is an entry control loops whicj is used to iterate certain statements based on a condition but here, initialization,condition and 
+updation will be in same line
+for(initialization;condition;updation){
+  //code
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

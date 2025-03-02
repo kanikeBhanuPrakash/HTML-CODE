@@ -1,0 +1,146 @@
+HTML,CSS,JS  -- frontend
+
+---  Introduction of Course -----
+Topics: HTML,Advanced HTML,CSS,Advanced CSS, Bootstrap,git & GitHub, JS,Advanced JS,Jquery(AJAX)
+Duration: 50 sessions after demo
+Prerequities: beginner
+Timings: 7.30-7.35  ----- 8.50-8.55
+
+
+------------------------------------------------------
+imagine you have tons of money, u hve to solve a problem , what ? how?
+
+----------------------------------------------------------
+prblm: In a website tons of products are there, there is variation of same products in prices
+best seller tags, based on history ,rating,filters,feedback
+
+
+
+
+prbelm: we get most important mails to gmail but we hardly opens them so that there is a chance we miss them
+solutions: alerts to mobile in advance we can watsapp,sms, SOS,
+adding alerts to calender,
+multiple remainder,
+different tones
+add groups,
+
+------------------------------------------------------
+In swiggy,zomato, , you will have so many options, how to make checkout faster....
+ ---- we will look into Reviews, Ratings etc.....
+ ---- add price range option in filter
+  --- item rating,restaruent rating filter
+  -- restarurents comparison
+--- Sir-- Based on the Rating--If they maintain Drop Downs  of some group of restaurants into multiple Sub tabs of dorp downs.....easy to  chose by clicking on that particular drop down--which are alligned vertically
+--- pre saved meals
+-- autofill address
+-------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------social media managements: All people are not good at social media but they are important to maintain. sometimes it might gets overwhelming to maintain multiple social medias
+fb,insta,snap,twitter,telegram,threads,reddit,pinterest,
+linkedin
+HI Sir, Creating a web page where we write logic to check notifications / posts across all social networks. Then this web site should sort the notfication based on priority. We can set up a alert system based on the priority 
+create like a gmail and link all apps
+one mail for all
+---------------------------------------------------------------------------------
+kids are involving in social media alot especially less than 12
+kyc for social media
+ask aadhar card
+fae recognization login
+age verification like asking advance questions
+time limit
+parental locks
+monitoring 
+make app especially for kids
+kid's school marksheet verification
+Apps self content filtration based on age/dob provided 
+
+
+what is internet? network of networks
+How internet works?
+client server model:
+ client request the server
+server respond to the client
+what is the differene between Google,Google Chrome,Google.com
+Google ----> Search engines release crawlers to check websites for specific keywords and rank them
+eg: yahoo, bing, duckduckgo, brave search , Yandex, ask.com , baidu,startpage
+Google chrome -- browser --- play dinosaur,read,movies,passowrds,multi tasking
+eg: edge,firefox,brave,safari,opera,uc,
+Google.com --- website -- collection of web pages
+
+------------------------------------------------------------------------------------
+imagine you can build any website you want, then what website you would like to build?
+game licence selling site, cooking websites, pharmacy, agriculture, book ecommerce, healthy diet plan, weather forecast, resume building,college website, travel,portfolio,grocery,farming
+I want to build a website for _____________________ . I'm passionate, hard working and i will build this site before i complete this cource
+Web development process:
+   1. Requirements: we can write what we want to include in the website
+    for eg: if i wanna build ecommerce for books,  i want all books list, filters, search, addtocart,login,signup,dashboard,checkout,payment,about, contact, each book page
+2. Design (UI/UX) :
+   UI -- user interface  -- what you see? 
+       -- colors
+       -- font  --  serif, sans serif, monospace, cursive, fantasy
+       -- layout
+  designers build sites design in tools like figma
+   UX -- user experience -- what you feel?
+3. coding(frontend+backend+db)
+4. Testing
+5. Deployement
+6. maintainence
+
+
+
+HTML,CSS,JS:
+HTML- structure of the web page
+CSS - styling/designing of the web page
+JS- functioning of the web page
+code editor: download vscode 
+   ---  file -- auto save(enable it)
+   --- extensions 
+        -- live server(ritwik dey) install, u will get go live option below
+        -- material icon theme
+        -- live preview
+   open folder in vscode:
+    1. goto file -->open folder-->select the folder
+     2. goto the folder --> rightclick --> show more options --->open with vscode
+    3. goto the folder  --> select and clear path -->cmd enter ---> type in cmd , code .
+HTML:
+
+1. what is  internet?  
+     connection of network / network of networks
+Tim Beneres lee started WWW
+network means connections
+--- LAN, WAN, MAN,WWW
+2. what is the purpose of websites?
+gathering info, marketing,publicity, communication, display info
+3. what kind of website you wanna build?
+ecommerce, live egg price,  concert tickets, share markets, learning websites, doctor consultation, 
+bike & car repair , rental vehicles, live yogs, 
+food ordering for all, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

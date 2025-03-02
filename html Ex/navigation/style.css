@@ -1,0 +1,28 @@
+ details div{
+    width: 100px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin-top: 10px;
+ }
+ details{
+    margin-top:20px ;
+ }
+ nav{
+    padding: 20px;
+    background-color: lightgray;
+    width: 150px;
+    height: 500px;
+ }
+ nav{
+    padding: 20px;
+    background-color: lightgray;
+    width: 150px;
+    height: 500px;
+ }
+ details div{
+    background-color: rgb(245, 245, 146);
+    color: black;
+    display: grid;
+ }
+ 
